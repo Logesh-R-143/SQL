@@ -2,11 +2,10 @@
 
 <b>📖 Overview</b><br>
 This project showcases advanced SQL skills by solving real-world business problems using a structured relational database. The project covers:<br>
-Data exploration<br>
-Complex query building<br>
-Aggregation, ranking, and joins<br>
-Performance optimization techniques<br>
-
+1.Data exploration<br>
+2.Complex query building<br>
+3.Aggregation, ranking, and joins<br>
+4.Performance optimization techniques<br>
 The dataset involves tables related to business domains such as customers, sales, products, orders, and territories.<br>
 
 <b>🎯 Objective</b><br>
@@ -33,7 +32,7 @@ Subqueries and CTEs: Simplifying complex queries.<br>
 Optimization Techniques: Indexing and query execution plans.<br>
 
 <b>📬 Contact<b><br>
-Feel free to reach out if you have any questions or suggestions:
-LinkedIn: Logesh R
-GitHub: Logesh-R-143
+Feel free to reach out if you have any questions or suggestions:<br>
+LinkedIn: linkedin.com/in/logesh-r-74398a213<br>
+GitHub: github.com/Logesh-R-143<br>
 Email: logu46461@gmail.com
