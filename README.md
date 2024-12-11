@@ -31,7 +31,7 @@ Date Functions: MONTH(), YEAR(), DATEDIFF().<br>
 Subqueries and CTEs: Simplifying complex queries.<br>
 Optimization Techniques: Indexing and query execution plans.<br>
 
-<b>📬 Contact<b><br>
+<b>📬 Contact</b><br>
 Feel free to reach out if you have any questions or suggestions:<br>
 LinkedIn: linkedin.com/in/logesh-r-74398a213<br>
 GitHub: github.com/Logesh-R-143<br>
